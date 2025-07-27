@@ -22,7 +22,6 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
 
 
 
@@ -118,6 +117,5 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 
-```
 
 

@@ -36,8 +36,8 @@ A storage management and file sharing platform that lets users effortlessly uplo
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- React 19
-- Next.js 15
+- React 
+- Next.js 
 - Appwrite
 - TailwindCSS
 - ShadCN
